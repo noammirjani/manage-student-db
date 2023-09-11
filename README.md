@@ -1,4 +1,4 @@
-# checkpoint-noammirjani, part 1 of the checkpoint project in bootcamp
+# Part 1 of the checkpoint project in bootcamp
 ## Student Database Management System
 This program manage school student database.
 
