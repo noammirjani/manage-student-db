@@ -2,6 +2,8 @@
 
 This C program efficiently manages a school database, organizing student information such as classes, levels, and majors. Notably, it reads encrypted data from an existing database, decrypts it using the AES-256-CBC algorithm for processing and updates, and encrypts the modified data before storing it back. This robust encryption and decryption mechanism ensure the privacy and confidentiality of student records, maintaining a secure database environment.
 
+ ### This is project is part of bootcamp and collabration with Checkpoint - for more data look in [Project Details](#project-details)
+
 # Table of Contents
 
 - [Features](#features)
